@@ -1,0 +1,8 @@
+
+branches:
+  - "13.0"
+  - "14.0"
+
+repos:
+  rafnixg/payment_niubiz:
+  rafnixg/freshfood.pe:
