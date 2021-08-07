@@ -64,7 +64,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           path: DINAR
-          repository: itpp-labs/DINAR
+          repository: rafnixg/DINAR
           ref: master
       - uses: actions/setup-python@v1
         with:
